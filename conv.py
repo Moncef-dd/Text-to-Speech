@@ -1,6 +1,6 @@
 from gtts import gTTS
 
-# If you don't have gtts go to the terminal and write pip install gtts
+# If you don't have gtts run the next command in your terminal "pip install gtts"
 import os
 
 # Reading the files
